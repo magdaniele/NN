@@ -1,4 +1,4 @@
-name: A workflow for Fibonacci Series
+name: Show a therm of Fibonacci Series
 on: pull request
 
 jobs:
