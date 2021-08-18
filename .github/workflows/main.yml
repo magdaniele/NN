@@ -1,5 +1,5 @@
-name: A workflow for Fibonacci Series
-on: push
+name: Show a therm of Fibonacci Series
+on: [push,pull_request]
 
 jobs:
   build:
